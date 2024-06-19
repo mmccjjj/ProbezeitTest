@@ -1,0 +1,23 @@
+.navbar{
+    justify-content: space-around;
+}
+
+a{
+    text-decoration: none;
+}
+
+#dis{
+    color: gray;
+}
+
+.bi-emoji-dizzy{
+    display: none;
+}
+
+.show{
+    display: block;
+}
+
+.notShow{
+    display: none;
+}
